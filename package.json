@@ -1,0 +1,12 @@
+{
+  "name": "house-flow-card",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Home Assistant Lovelace card: house in the middle, any number of consumers around it",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check house-flow-card.js"
+  },
+  "license": "MIT"
+}
