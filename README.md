@@ -8,6 +8,8 @@ Inspiriert von der Energie-Fluss-Ansicht von Home Assistant und der [Power Flow 
 
 Die Karte ist rein darstellend und löst keine Aktionen aus (Tippen öffnet nur den „Mehr Infos"-Dialog).
 
+![House Flow Card](docs/screenshot.png)
+
 ## Funktionen
 
 - Haus als großer Kreis in der Mitte mit Icon, Gesamtleistung und Zeile „Sonstige" (Hausleistung minus Summe aller Verbraucher, nie negativ)
